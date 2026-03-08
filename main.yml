@@ -1,3 +1,5 @@
+# This Code Generates a Pac-Man Overlay over the Contributions Graph.
+# See <https://github.com/abozanona/pacman-contribution-graph?tab=readme-ov-file>.
 name: generate pacman game
 
 on:
