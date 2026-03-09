@@ -1,4 +1,4 @@
-## Rue❄️Brie Contribution Graph
+## Rue❄️Brie -- Contribution Graph
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rue-Brie/Rue-Brie/output/pacman-contribution-graph-dark.svg">
